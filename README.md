@@ -1,5 +1,4 @@
 # random-minecraft-item-choiser
-nice project to minecraft
 Пользовать вы разберётесь как
 обновы будут если будет актив
 
